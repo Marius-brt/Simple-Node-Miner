@@ -1,1 +1,1 @@
-Simple NodeJs blockhain miner
+# Simple NodeJs blockchain miner
